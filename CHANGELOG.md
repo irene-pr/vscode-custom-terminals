@@ -6,4 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+### [0.0.1] - 02-08-2022
+
+- Initial boilerplate
+- Extension shows 'Hello World' message
