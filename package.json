@@ -1,11 +1,16 @@
 {
   "name": "custom-terminals",
-  "displayName": "custom-terminals",
+  "displayName": "Custom Terminal Profiles",
   "description": "it makes custom terminals",
+  "author": {
+    "name": "Irene",
+    "email": "ipice1618@protonmail.com"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.69.0"
   },
+  "license": "MIT",
   "categories": [
     "Other"
   ],
